@@ -1,0 +1,33 @@
+const int b =2,lana
+const int c,m =5,y =2
+int teste_v = 2
+const int k = 4
+int testinho =25
+const int o =56
+const char h ='a'
+
+char u = 5
+
+
+def teste(int a[2][b], int d[b],char p[3][2], bool ll)
+    int z [k][o]
+    int n [3] = {2,3,4}
+endp
+def tempo(int a[2][b], int d[b],char p[3][2], bool ll, int n)
+    int z [k][o]
+    int n [3]
+endp
+def init
+   int fat,v
+   getint n
+   if (n <= 1)
+        fat = 1
+    else
+        fat = n
+        z = n
+        while (z > 2)
+            z = z - 1
+            fat = fat * z
+        endw
+    endi
+endp

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Compilador" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Compilador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AnalexProc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AnalexProc.h" />
+		<Unit filename="AnasintProc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AnasintProc.h" />
+		<Unit filename="Func.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TabSimb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TabSimb.h" />
+		<Unit filename="expressao.txt" />
+		<Unit filename="expressao2.txt" />
+		<Unit filename="func.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

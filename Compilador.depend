@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1736213637 source:d:\meuprojeto\compilador_sem_arvore\analexproc.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	"AnalexProc.h"
+
+1733950080 d:\meuprojeto\compilador_sem_arvore\analexproc.h
+	<stdio.h>
+	<stdbool.h>
+
+1736252018 source:d:\meuprojeto\compilador_sem_arvore\anasintproc.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	"AnalexProc.h"
+	"AnasintProc.h"
+	"func.h"
+	"TabSimb.h"
+
+1733858701 d:\meuprojeto\compilador_sem_arvore\anasintproc.h
+	"AnalexProc.h"
+	<stdbool.h>
+	<stdio.h>
+
+1733623600 d:\meuprojeto\compilador_sem_arvore\func.h
+
+1736213637 d:\meuprojeto\compilador_sem_arvore\tabsimb.h
+	<stdio.h>
+	<stdlib.h>
+	"AnalexProc.h"
+	<stdbool.h>
+
+1733624379 source:d:\meuprojeto\compilador_sem_arvore\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AnalexProc.h"
+	"Func.h"
+
+1736213637 source:d:\meuprojeto\compilador_sem_arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	"analexproc.h"
+
+1736220194 source:d:\meuprojeto\compilador_sem_arvore\tabsimb.c
+	"TabSimb.h"
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+
+1776279645 source:d:\codigosc\analexproc.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	"AnalexProc.h"
+
+1776279645 d:\codigosc\analexproc.h
+	<stdio.h>
+	<stdbool.h>
+
+1776279645 source:d:\codigosc\anasintproc.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	"AnalexProc.h"
+	"AnasintProc.h"
+	"func.h"
+	"TabSimb.h"
+
+1776279645 d:\codigosc\anasintproc.h
+	"AnalexProc.h"
+	<stdbool.h>
+	<stdio.h>
+
+1776279645 d:\codigosc\func.h
+
+1776279645 d:\codigosc\tabsimb.h
+	<stdio.h>
+	<stdlib.h>
+	"AnalexProc.h"
+	<stdbool.h>
+
+1776279645 source:d:\codigosc\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AnalexProc.h"
+	"Func.h"
+
+1776279645 source:d:\codigosc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	"analexproc.h"
+
+1776279645 source:d:\codigosc\tabsimb.c
+	"TabSimb.h"
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+
